@@ -1,0 +1,39 @@
+{
+  "transactions": [
+    {
+      "id": "20251115154031_5798",
+      "amount": 500.0,
+      "category": "Freelance",
+      "type": "income",
+      "description": "web dev income",
+      "date": "2025-11-15 15:40:31"
+    },
+    {
+      "id": "20251115154200_1880",
+      "amount": 200.0,
+      "category": "Rent",
+      "type": "expense",
+      "description": "House Rent",
+      "date": "2025-11-15 15:42:00"
+    }
+  ],
+  "categories": {
+    "income": [
+      "Salary",
+      "Freelance",
+      "Investment",
+      "Gift",
+      "Other"
+    ],
+    "expense": [
+      "Food",
+      "Transport",
+      "Entertainment",
+      "Bills",
+      "Shopping",
+      "Healthcare",
+      "Other",
+      "Rent"
+    ]
+  }
+}
